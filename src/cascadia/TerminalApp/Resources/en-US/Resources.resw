@@ -781,7 +781,7 @@
     <value>This Terminal window is running as Admin</value>
   </data>
   <data name="SetAsDefaultTip_OpenSettingsLink.Content" xml:space="preserve">
-    <value>Open Settings</value>
+    <value>Open settings</value>
     <comment>This is a call-to-action hyperlink; it will open the settings.</comment>
   </data>
   <data name="CommandPalette_MatchesAvailable" xml:space="preserve">
